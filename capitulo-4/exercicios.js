@@ -57,9 +57,4 @@ console.log(soletrando(str));
 
 var arr = [1, 2];
 
-const criaIterador = (arr) => {
-    next: function{
-
-        
-    }
-};
+const criaIterador = (arr) => {};
